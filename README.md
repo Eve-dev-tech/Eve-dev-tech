@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eve-dev-tech
-- 👀 I’m interested in python, business & social analytics and A.I  
+- 👀 I’m interested in python, business analytics and M.L 
 - 🌱 I’m currently learning EHICS AND LAW in Data analysis and A.I
 - 💞️ I’m looking to collaborate on building a performance tracking preidctive KPI
 - 📫 How to reach me ...evemuthoni0908@gmail.com
